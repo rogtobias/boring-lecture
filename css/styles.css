@@ -1,0 +1,26 @@
+/*h2.intro {
+  font-family: monospace;
+  color: Olive;
+  font-weight: bolder;
+}
+p.intro {
+  font-style: oblique;
+  font-stretch:extra-condensed;
+}
+img.intro {
+  width: 45%;
+  margin: auto;
+}*/
+
+.intro {
+  font-family: monospace;
+  color: Olive;
+  font-weight: bolder;
+  font-style: oblique;
+  font-stretch:extra-condensed;
+
+}
+img {
+  width: 45%;
+  margin: auto;
+}
