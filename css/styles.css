@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*h2.intro {
   font-family: monospace;
   color: Olive;
@@ -33,4 +34,8 @@ img {
 .paragraph2 {
   background-color: yellow;
   border: 3px solid green;
+=======
+.intro {
+  color: red;
+>>>>>>> 0252768ba9d48ba2181b094a91749f99bda23790
 }
